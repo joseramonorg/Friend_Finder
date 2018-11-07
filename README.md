@@ -1,2 +1,1 @@
-# Friend_Finder
-Homework 11 - Bootcamp CDMX 2018
+Homework 11 - Friend Finder
